@@ -1,2 +1,2 @@
 This is test1
-Editted it for Git fetch
+Editted it for Git pull
